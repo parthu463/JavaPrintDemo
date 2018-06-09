@@ -1,0 +1,1 @@
+This project demonstates GIT and JENKINS integration
